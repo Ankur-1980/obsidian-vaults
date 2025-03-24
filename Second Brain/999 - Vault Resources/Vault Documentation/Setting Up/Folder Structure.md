@@ -2,6 +2,7 @@
 - NO MORE THAN FIVE LEVELS
 
 - 000 - Inbox
+	- where new notes go
 	- Fleeting Notes
 - 001 - MOCs
 - 100 - Personal
@@ -11,19 +12,18 @@
 		- 113 - Monthly
 		- 114 - Quarterly
 		- 115 - Yearly
-	- 120 - People
-		- Family
-		- People
-		- Work
 	- 130 - Recipes
-- 200 - Work
-- 300 Hobbies
+- People
+		- Family
+		- Work
+- Work
+- Hobbies
 	- 310 EDH
 		- 311 - Decks
 		- 312 - Infinite Combos
-- 400 Education
+- Education
 	- SNHU
-- 500 - Projects
+- Projects
 - 998 - Archives
 - 999 - Vault Resources
 	- Scripts
