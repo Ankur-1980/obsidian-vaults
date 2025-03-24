@@ -1,0 +1,37 @@
+# Folder Structure
+- NO MORE THAN FIVE LEVELS
+
+- 000 - Inbox
+	- Fleeting Notes
+- 001 - MOCs
+- 100 - Personal
+	- 110 - Journal
+		- 111 - Daily
+		- 112 - Weekly
+		- 113 - Monthly
+		- 114 - Quarterly
+		- 115 - Yearly
+	- 120 - People
+		- Family
+		- People
+		- Work
+	- 130 - Recipes
+- 200 - Work
+- 300 Hobbies
+	- 310 EDH
+		- 311 - Decks
+		- 312 - Infinite Combos
+- 400 Education
+	- SNHU
+- 500 - Projects
+- 998 - Archives
+- 999 - Vault Resources
+	- Scripts
+	- Snippets
+	- Templates
+	- Images
+	- Canvas
+	- Excalibrain
+	- Vault Documentation
+		- Plug-in Docs
+	- 
