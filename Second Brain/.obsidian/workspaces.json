@@ -1,0 +1,227 @@
+{
+  "workspaces": {
+    "Base Workspace": {
+      "main": {
+        "id": "456bbd50587382a3",
+        "type": "split",
+        "children": [
+          {
+            "id": "71c3c5f1c688534e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "927dbd345849a950",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "c9688dec46182692",
+        "type": "split",
+        "children": [
+          {
+            "id": "92e93a6e8710c82f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "574e29cdf1d1974c",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "49f42f2460e7c2fe",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "9374ecdffc4cac7d",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "b801c93499dd2f33",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "87887a30e9c9759f",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {},
+                  "icon": "clock",
+                  "title": "Recent Files"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "2347af9a8d256053",
+        "type": "split",
+        "children": [
+          {
+            "id": "9352d736d605ae5f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "909006f84dc968d8",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "_Quick Notes/Folder Structure.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for Folder Structure"
+                }
+              },
+              {
+                "id": "97ee62b2c7cafd78",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "_Quick Notes/Folder Structure.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from Folder Structure"
+                }
+              },
+              {
+                "id": "13b78399eb4722d4",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "d51def58962d0ea3",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "_Quick Notes/Folder Structure.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of Folder Structure"
+                }
+              },
+              {
+                "id": "d3291ac21ba3a71c",
+                "type": "leaf",
+                "state": {
+                  "type": "juggl_nodes",
+                  "state": {},
+                  "icon": "ag-node-list",
+                  "title": "Juggl nodes"
+                }
+              },
+              {
+                "id": "a73b33342304b0cf",
+                "type": "leaf",
+                "state": {
+                  "type": "juggl_style",
+                  "state": {},
+                  "icon": "ag-style",
+                  "title": "Juggl style"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "juggl:Juggl global graph": false,
+          "open-vscode:VSCode": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "927dbd345849a950",
+      "mtime": "2025-03-24T18:23:28-04:00",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": [
+          "000 - Inbox",
+          "100 - Personal/110 - Journal",
+          "500 - Education",
+          "999 - Vault Resources",
+          "999 - Vault Resources/Images",
+          "999 - Vault Resources/Vault Documentation",
+          "999 - Vault Resources/Vault Documentation/Plug In Docs",
+          "999 - Vault Resources/Vault Documentation/Setting Up"
+        ]
+      }
+    }
+  },
+  "active": "Base Workspace"
+}

@@ -4,6 +4,7 @@
 - 000 - Inbox
 	- where new notes go
 	- Fleeting Notes
+	- New Attachments
 - 001 - MOCs
 - 100 - Personal
 	- 110 - Journal

@@ -1,0 +1,32 @@
+{
+  "recentFiles": [
+    {
+      "basename": "000 - Setting Up My Vault",
+      "path": "999 - Vault Resources/Vault Documentation/Setting Up/000 - Setting Up My Vault.md"
+    },
+    {
+      "basename": "Hotkeys",
+      "path": "999 - Vault Resources/Vault Documentation/Setting Up/Hotkeys.md"
+    },
+    {
+      "basename": "Options",
+      "path": "999 - Vault Resources/Vault Documentation/Setting Up/Options.md"
+    },
+    {
+      "basename": "Commander",
+      "path": "999 - Vault Resources/Vault Documentation/Plug In Docs/Commander.md"
+    },
+    {
+      "basename": "Dataview",
+      "path": "999 - Vault Resources/Vault Documentation/Plug In Docs/Dataview.md"
+    },
+    {
+      "basename": "Community Plugins",
+      "path": "999 - Vault Resources/Vault Documentation/Setting Up/Community Plugins.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false
+}

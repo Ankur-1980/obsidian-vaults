@@ -1,0 +1,55 @@
+# Community Plugins
+## First
+- Advanced Tables
+- Auto Link Title
+- Better Word Count
+	- Markdown Status bar
+		- delete characters in page
+		- create daily pages
+		- create total pages
+- [[Commander]]
+	- Add buttons to various areas of the UI
+- [[Dataview]]
+	- needed for many things
+- Juggl
+	- better local graph view
+	- Automatically zoom on active nodes
+	- hotkey
+		- `ctrl + alt + down`
+- [[Linter]]
+- [[Minimal Theme Settings]]
+- Recent Files
+- Style Settings
+- Natural Language Dates
+- Open Vault VSCode
+	- `ctrl + shift + .`
+- Paste URL into Selection
+- Workplace Plus
+
+## Later
+- Templater
+- Periodic Notes
+	- For Templates
+- Calendar
+- Callout Manager
+- List Callout
+- Metadata Menu
+- Plant UML
+- Modal Forms
+## Look into
+- [DB Folder](https://rafaelgb.github.io/obsidian-db-folder/)
+	- makes database queries easier
+- [Iconize](https://github.com/FlorianWoelki/obsidian-iconize)
+	- add icons where ever you want
+- Kanban
+- [Meta Bind](https://www.moritzjung.dev/obsidian-meta-bind-plugin-docs/)
+	- create custom buttons
+- Latex Suite
+- Quick Latex
+- MetaEdit
+- Note Refactor
+- Quick Switcher ++
+- Quick Add
+- Tab Switcher
+- Tasks
+- Tracker
